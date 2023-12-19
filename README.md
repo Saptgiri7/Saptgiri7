@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saptgiri7
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development Projects 
 - 📫 How to reach me mail me at saptgiriyangal@gmail.com
 
