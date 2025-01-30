@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saptgiri7
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Web Development Projects 
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me mail me at saptgiriyangal@gmail.com
 
 <!---
