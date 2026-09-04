@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 **Full Stack Software Engineer** with hands-on production experience building end-to-end web applications across **React / TypeScript** frontends and **Node.js / PostgreSQL** microservices.
-- 💼 Currently working as a **Full Stack Engineering Intern at TensorGo**, shipping features across a **13-service microservices platform**, optimizing database performance, and integrating LLM APIs.
+- 💼 Currently working as a **Full Stack Engineering Intern at TensorGo**, shipping features across a **microservices**, optimizing database performance, and integrating LLM APIs.
 - ⚡ Passionate about distributed architectures, high-concurrency real-time systems (WebSockets, Pub/Sub), and clean code engineering.
 - 🏆 Recognized with the **LeetCode 365-Day Consistency Badge** and certified as a **HackerRank Software Engineer** & **Postman API Student Expert**.
 - 🎓 B.Tech in Electrical Engineering from **N.K. Orchid College of Engineering** (2022 – 2026).
