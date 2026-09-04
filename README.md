@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,34&height=200&section=header&text=Saptgiri%20Yangal&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Full%20Stack%20Software%20Engineer%20%7C%20Microservices%20%26%20Scalable%20Systems&subfontSize=18&subfontColor=e0e0e0" width="100%"/>
 
+  [![Live Store](https://img.shields.io/badge/🛒_Live_Store-E--Commerce-2ea44f?style=for-the-badge)](https://frontend-unjz.onrender.com/)
+  [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Website-6C63FF?style=for-the-badge)](https://portfolio-ri7v.onrender.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saptgiriyangal)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saptgiri7)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saptgiriyangal@gmail.com)
   [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/saptgiriyangal)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Saptgiri7/Portfolio)
 
 </div>
 
@@ -15,6 +16,7 @@
 
 - 🚀 **Full Stack Software Engineer** with hands-on production experience building end-to-end web applications across **React / TypeScript** frontends and **Node.js / PostgreSQL** microservices.
 - 💼 Currently working as a **Full Stack Engineering Intern at TensorGo**, shipping features across a **microservices**, optimizing database performance, and integrating LLM APIs.
+- 🌐 Deployed a production-ready MERN e-commerce store with live checkout & JWT auth at [**frontend-unjz.onrender.com**](https://frontend-unjz.onrender.com/).
 - ⚡ Passionate about distributed architectures, high-concurrency real-time systems (WebSockets, Pub/Sub), and clean code engineering.
 - 🏆 Recognized with the **LeetCode 365-Day Consistency Badge** and certified as a **HackerRank Software Engineer** & **Postman API Student Expert**.
 - 🎓 B.Tech in Electrical Engineering from **N.K. Orchid College of Engineering** (2022 – 2026).
@@ -70,6 +72,23 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/Saptgiri7/webService">webService</a> &nbsp; <a href="https://frontend-unjz.onrender.com/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-Deployed-success?style=flat-square" alt="Live Demo" /></a></h3>
+      <p><b>Full-Stack E-Commerce Platform (MERN)</b></p>
+      <p>
+        <a href="https://frontend-unjz.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Visit_Live_Store-frontend--unjz.onrender.com-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Live E-Commerce Website" />
+        </a>
+      </p>
+      <ul>
+        <li>🌐 <b>Live Deployment:</b> Fully deployed on Render at <a href="https://frontend-unjz.onrender.com/"><b>frontend-unjz.onrender.com</b></a>.</li>
+        <li>Full-stack platform built for <b>Pengonda Kalyani Foods</b> with dynamic product catalog, shopping cart, and order checkout.</li>
+        <li>Implemented secure <b>JWT authentication</b> with role-based access control for customers and admin panels.</li>
+        <li>Refactored <b>Redux</b> state management to eliminate redundant re-renders, boosting client performance by <b>~40%</b>.</li>
+      </ul>
+      <p><b>Quick Links:</b> <a href="https://frontend-unjz.onrender.com/">🔗 <b>Live Demo</b></a> &bull; <a href="https://github.com/Saptgiri7/webService">💻 <b>Source Code</b></a></p>
+      <p><b>Tech Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Redux</code> <code>Tailwind CSS</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Saptgiri7/sportz">sportz</a></h3>
       <p><b>Real-Time Sports Event Streaming Backend</b></p>
       <ul>
@@ -77,17 +96,8 @@
         <li>Engineered a high-concurrency <b>Pub/Sub architecture</b> to distribute live events across multiple subscriber channels.</li>
         <li>Built with type-safe schema validation using <b>Drizzle ORM</b>, <b>PostgreSQL</b>, and <b>Zod</b>.</li>
       </ul>
+      <p><b>Quick Links:</b> <a href="https://github.com/Saptgiri7/sportz">💻 <b>Source Code</b></a></p>
       <p><b>Tech Stack:</b> <code>Node.js</code> <code>WebSockets</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>Zod</code> <code>Pub/Sub</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/Saptgiri7/webService">webService</a></h3>
-      <p><b>Full-Stack E-Commerce Platform</b></p>
-      <ul>
-        <li>Full-stack platform built for Pengonda Kalyani Foods with dynamic product catalog, shopping cart, and checkout.</li>
-        <li>Implemented secure <b>JWT authentication</b> with role-based access control for customers and admins.</li>
-        <li>Refactored <b>Redux</b> state management to eliminate redundant re-renders, boosting client performance by ~40%.</li>
-      </ul>
-      <p><b>Tech Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Redux</code> <code>Tailwind CSS</code></p>
     </td>
   </tr>
   <tr>
@@ -103,11 +113,16 @@
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/Saptgiri7/Portfolio">Portfolio</a> & 🎮 <a href="https://github.com/Saptgiri7/python_game">python_game</a></h3>
       <p><b>Personal Portfolio & Interactive Python Game</b></p>
+      <p>
+        <a href="https://portfolio-ri7v.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🟢_Live_Portfolio-portfolio--ri7v.onrender.com-6C63FF?style=flat-square&logo=render&logoColor=white" alt="Live Portfolio" />
+        </a>
+      </p>
       <ul>
-        <li><b>Portfolio:</b> Responsive personal website showcasing projects, skills, and resume.</li>
+        <li><b>Portfolio:</b> Personal responsive website showcasing projects & skills (<a href="https://portfolio-ri7v.onrender.com/"><b>Live Demo</b></a>).</li>
         <li><b>python_game:</b> Interactive color parity game logic developed in Python.</li>
       </ul>
-      <p><b>Tech Stack:</b> <code>JavaScript</code> <code>CSS3</code> <code>HTML5</code> <code>Python</code></p>
+      <p><b>Tech Stack:</b> <code>React.js</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Python</code></p>
     </td>
   </tr>
 </table>
