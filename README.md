@@ -16,10 +16,11 @@
 
 - 🚀 **Full Stack Software Engineer** with hands-on production experience building end-to-end web applications across **React / TypeScript** frontends and **Node.js / PostgreSQL** microservices.
 - 💼 Currently working as a **Full Stack Engineering Intern at TensorGo**, shipping features across a **microservices**, optimizing database performance, and integrating LLM APIs.
+- 🃏 Built a real-time multiplayer 13-Card Indian Rummy platform ([**rummy**](https://github.com/Saptgiri7/rummy)) powered by **WebSockets**, **Redis 7 Redlock**, **PostgreSQL**, and **React 19**.
 - 🌐 Deployed a production-ready MERN e-commerce store [**frontend-unjz.onrender.com**](https://frontend-unjz.onrender.com/).
 - ⚡ Passionate about distributed architectures, high-concurrency real-time systems (WebSockets, Pub/Sub), and clean code engineering.
 - 🏆 Recognized with the **LeetCode 365-Day Consistency Badge** and certified as a **HackerRank Software Engineer** & **Postman API Student Expert**.
-- 🎓 B.Tech in Electrical Engineering from **N.K. Orchid College of Engineering** (2022 – 2026).
+- 🎓 B.Tech in Electrical Engineering from **N.K. Orchid College of Engineering** (2022 - 2026).
 
 ---
 
@@ -36,7 +37,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -49,6 +51,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 #### Databases & ORMs
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -56,6 +59,7 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
 
 #### DevOps & Tools
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -71,6 +75,19 @@
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🃏 <a href="https://github.com/Saptgiri7/rummy">rummy</a></h3>
+      <p><b>Real-Time Multiplayer 13-Card Indian Rummy Platform</b></p>
+      <ul>
+        <li>Real-time multiplayer Indian Rummy with server-authoritative turn FSM, anti-cheat card masking, and 30s turn loop.</li>
+        <li>Sub-millisecond state caching and distributed concurrency control with <b>Redis 7</b> and <b>Redlock</b> mutex locks.</li>
+        <li>Dual-mode card manipulation supporting <b>HTML5 Drag-and-Drop & Touch</b> gestures alongside click selection.</li>
+        <li>Cross-device responsive horizontal casino table with left-hand mobile thumb ergonomics.</li>
+        <li>Resilient disconnected player handling with expedited turns and instant auto-win forfeit resolution.</li>
+      </ul>
+      <p><b>Quick Links:</b> <a href="https://github.com/Saptgiri7/rummy">💻 <b>Source Code</b></a></p>
+      <p><b>Tech Stack:</b> <code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>WebSockets</code> <code>Redis 7</code> <code>PostgreSQL</code> <code>Drizzle ORM</code></p>
+    </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/Saptgiri7/webService">webService</a> &nbsp; <a href="https://frontend-unjz.onrender.com/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-Deployed-success?style=flat-square" alt="Live Demo" /></a></h3>
       <p><b>Full-Stack E-Commerce Platform (MERN)</b></p>
@@ -88,6 +105,8 @@
       <p><b>Quick Links:</b> <a href="https://frontend-unjz.onrender.com/">🔗 <b>Live Demo</b></a> &bull; <a href="https://github.com/Saptgiri7/webService">💻 <b>Source Code</b></a></p>
       <p><b>Tech Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Redux</code> <code>Tailwind CSS</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Saptgiri7/sportz">sportz</a></h3>
       <p><b>Real-Time Sports Event Streaming Backend</b></p>
@@ -98,6 +117,15 @@
       </ul>
       <p><b>Quick Links:</b> <a href="https://github.com/Saptgiri7/sportz">💻 <b>Source Code</b></a></p>
       <p><b>Tech Stack:</b> <code>Node.js</code> <code>WebSockets</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>Zod</code> <code>Pub/Sub</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📐 <a href="https://github.com/Saptgiri7/systemDesign">systemDesign</a></h3>
+      <p><b>Low-Level Design (LLD) & High-Level Design (HLD)</b></p>
+      <ul>
+        <li>Curated implementations and notes covering Object-Oriented Design patterns, SOLID principles, and architectural trade-offs.</li>
+        <li>Detailed case studies on scalable system architectures, caching strategies, and database partitioning.</li>
+      </ul>
+      <p><b>Focus:</b> <code>System Design</code> <code>LLD / HLD</code> <code>Design Patterns</code> <code>Scalability</code></p>
     </td>
   </tr>
   <tr>
